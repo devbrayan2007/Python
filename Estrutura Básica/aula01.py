@@ -1,6 +1,6 @@
 # COMANDO PRINT
 
-print("\033[1;34mHello, World!")
+print("Hello, World!")
 
 
 # VARIÁVEIS
